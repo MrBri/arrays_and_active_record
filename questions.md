@@ -23,5 +23,10 @@ http://apidock.com/ruby/v1_9_3_125/String/upcase
 0) Link to Rail's ActiveRecord querying conditions 
 http://guides.rubyonrails.org/active_record_querying.html#conditions
 1) Link from APIdock to Rail's ActiveRecord querying conditions  
+<<<<<<< HEAD
 http://apidock.com/rails/v3.2.8/ActiveRecord/Base
 2)http://guides.rubyonrails.org/index.html 
+=======
+
+2) 
+>>>>>>> ea08f675f93431178b03d5816a3c0e818617cba1
